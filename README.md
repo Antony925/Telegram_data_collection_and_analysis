@@ -61,8 +61,6 @@ And launch jupyter notebook:
 
 Import all libraries and dependensis:
 
-![image](https://github.com/user-attachments/assets/99ca116e-961b-4924-b94b-b811f66cadd1)
-
 Merge all data in one .csv file:
 ![image](https://github.com/user-attachments/assets/f5842578-5af6-403a-847a-28010ee019a8)
 

@@ -75,8 +75,8 @@ Set your own path to file with merged data and read it:
 
 ### My own final CSS report
 The goal was to analyze russian propaganda dataset from different sides
-##### 3_eda.ipynb
+##### Morhun_final_report.ipynb
 Functions and visualisations of graphs (You can reuse this notebook to visualize your own data)
 
-##### 3_eda.pdf
+##### Morhun_final_report.pdf
 Compilation of 3_eda.ipynb to PDF

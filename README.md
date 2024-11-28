@@ -62,13 +62,13 @@ And launch jupyter notebook:
 Import all libraries and dependensis:
 
 Merge all data in one .csv file:
-![image](https://github.com/user-attachments/assets/f5842578-5af6-403a-847a-28010ee019a8)
+![image](https://github.com/user-attachments/assets/64dcb1de-9ad0-4992-add7-5b687711b18c)
 
 Set your own path to file with merged data and read it:
 ![image](https://github.com/user-attachments/assets/159945bf-0033-454a-a7e5-00b9e17df958)
 
 
-### My own final CSS-report
+### My own final CSS report
 The goal was to analyze russian propaganda dataset from different sides
 ##### 3_eda.ipynb
 Functions and visualisations of graphs (You can reuse this notebook to visualize your own data)

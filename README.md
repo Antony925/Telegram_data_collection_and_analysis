@@ -59,7 +59,7 @@ To run the notebook please install following libraries:
 ### My own final CSS-report
 The goal was to analyze russian propaganda dataset from different sides
 ##### 3_eda.ipynb
-Functions and visualisations of graphs (You can use this notebook to visualize your own data)
+Functions and visualisations of graphs (You can reuse this notebook to visualize your own data)
 
 ##### 3_eda.pdf
 Compilation of 3_eda.ipynb to PDF

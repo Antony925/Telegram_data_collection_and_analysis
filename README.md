@@ -55,8 +55,11 @@ To run the notebook please install following libraries:
 
 ```%pip install pandas matplotlib numpy seaborn plotly scikit-learn networkx nltk```
 
+
+### My own final CSS-report
+The goal was to analyze russian propaganda dataset from different sides
 ##### 3_eda.ipynb
-You can use functions from this notebook to visualize your own data
+Functions and visualisations of graphs (You can use this notebook to visualize your own data)
 
 ##### 3_eda.pdf
 Compilation of 3_eda.ipynb to PDF

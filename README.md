@@ -7,6 +7,7 @@ Combination of tools a ready-made tools and solutions for collecting your own da
 Clone this repo to your folder:
 ```git clone https://github.com/Antony925/Telegram_data_collection_and_analysis```
 
+#### Function descriptions:
 ##### 0_download_dialogs_list.py
 Downloads dialogs meta data for account.
 

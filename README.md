@@ -18,7 +18,7 @@ Downloads dialogs meta data for account.
 ##### 0_download_dialogs_list_by_folder.py
 Downloads dialogs meta data for account 
 
-'-1' - skips all chats, groups and channels, which had been archived in your telegram
+`-1` - skips all chats, groups and channels, which had been archived in your telegram
 
 
 ##### 1_download_dialogs_data.py
@@ -52,10 +52,11 @@ Python 3.8.13
 
 ### Instructions for data analysis
 To run the notebook please install following libraries:
+
 ```%pip install pandas matplotlib numpy seaborn plotly scikit-learn networkx nltk```
 
 ##### 3_eda.ipynb
-You can use functions from this notebook to visualize your data
+You can use functions from this notebook to visualize your own data
 
 ##### 3_eda.pdf
 Compilation of 3_eda.ipynb to PDF

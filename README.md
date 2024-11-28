@@ -59,6 +59,15 @@ And launch jupyter notebook:
 
 ```jupyter notebook```
 
+Import all libraries and dependensis:
+![image](https://github.com/user-attachments/assets/99ca116e-961b-4924-b94b-b811f66cadd1)
+
+Merge all data in one .csv file:
+![image](https://github.com/user-attachments/assets/f5842578-5af6-403a-847a-28010ee019a8)
+
+Set your own path to file with merged data and read it:
+![image](https://github.com/user-attachments/assets/159945bf-0033-454a-a7e5-00b9e17df958)
+
 
 ### My own final CSS-report
 The goal was to analyze russian propaganda dataset from different sides

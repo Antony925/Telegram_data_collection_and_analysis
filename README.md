@@ -55,6 +55,10 @@ To run the notebook please install following libraries:
 
 ```%pip install pandas matplotlib numpy seaborn plotly scikit-learn networkx nltk```
 
+And launch jupyter notebook:
+
+```jupyter notebook```
+
 
 ### My own final CSS-report
 The goal was to analyze russian propaganda dataset from different sides
